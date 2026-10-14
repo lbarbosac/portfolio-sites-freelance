@@ -1,14 +1,16 @@
 # Portfólio de Sites para Negócios Locais
 
-Onze sites publicados para revendas de veículos, cafeterias, lancherias e sorveterias do Sul e Norte do Brasil. Cada projeto tem identidade visual própria, layout responsivo e deploy em produção.
+Onze sites publicados para revendas de veículos, cafeterias, lancherias e sorveterias do Rio Grande do Sul. Cada projeto tem identidade visual própria, layout responsivo e deploy em produção.
 
-> **English:** a showcase of 11 deployed websites I built for local businesses (car dealerships, cafés, an empanada shop and ice cream parlors). React, Next.js and Vercel.
+> **English:** a showcase of 11 deployed websites I built for local businesses (car dealerships, cafés, an empanada shop and ice cream parlors). React, TypeScript, Tailwind CSS and Vercel.
 
 ![Projetos](https://img.shields.io/badge/projetos-11-1f2937?style=flat-square)
 ![Segmentos](https://img.shields.io/badge/segmentos-revendas%20%C2%B7%20alimenta%C3%A7%C3%A3o-1f2937?style=flat-square)
 ![Deploy](https://img.shields.io/badge/deploy-Vercel-000000?style=flat-square&logo=vercel)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -132,12 +134,13 @@ Café de especialidade, confeitaria artesanal e brunch de fim de semana. Visual 
 
 Confirmadas nestes projetos:
 
-- **Front-end:** React, Next.js, CSS
+- **Front-end:** React, TypeScript, Vite, Tailwind CSS
+- **Back-end:** Node.js, com funções serverless na Vercel
 - **Hospedagem e deploy:** Vercel, Hostinger
 - **Domínios:** Registro.br (sempre registrado no nome do cliente)
 - **Painel administrativo:** autenticação por login para gestão de estoque (revendas)
 
-Outras tecnologias que uso nos meus projetos: TypeScript, Node.js, Tailwind CSS, Supabase, PostgreSQL, Git e GitHub. Mais detalhes no [meu portfólio](https://lucasbarbosacandido.com).
+Outras tecnologias que uso nos meus projetos: Supabase, PostgreSQL, Git e GitHub. Mais detalhes no [meu portfólio](https://lucasbarbosacandido.com).
 
 ---
 
