@@ -34,7 +34,7 @@ Este repositório reúne os sites que desenvolvi para negócios reais. Eles most
 | # | Projeto | Segmento | Cidade | Status | Link |
 |---|---------|----------|--------|--------|------|
 | 1 | Infinity Veículos | Revenda de veículos | Porto Alegre/RS | Em produção, domínio próprio | [infinityveiculosrs.com.br](https://www.infinityveiculosrs.com.br) |
-| 2 | Diamond Veículos | Revenda de veículos | Porto Velho/RO | Publicado | [diamond-veiculos.vercel.app](https://diamond-veiculos.vercel.app) |
+| 2 | Diamond Veículos | Revenda de veículos | Alvorada/RS | Publicado | [diamond-veiculos.vercel.app](https://diamond-veiculos.vercel.app) |
 | 3 | 040 Automarcas | Revenda de veículos | Viamão/RS | Publicado | [040-automarcas.vercel.app](https://040-automarcas.vercel.app) |
 | 4 | LCE Automarcas | Revenda de veículos | Viamão/RS | Publicado | [lce-automarcas.vercel.app](https://lce-automarcas.vercel.app) |
 | 5 | Fênix Motors | Revenda de veículos | Viamão/RS | Publicado | [fenix-motors.vercel.app](https://fenix-motors.vercel.app) |
@@ -54,12 +54,12 @@ Seis sites para lojas de seminovos. Cada loja ganhou identidade visual própria,
 ### Infinity Veículos
 **[Acessar o site](https://www.infinityveiculosrs.com.br)** · Porto Alegre/RS
 
-Revenda de usados e seminovos, com compra, venda e consignação. É o projeto mais completo da série: site institucional com **painel administrativo protegido por login**, onde a loja gerencia o próprio estoque. Foi a base que reaproveitei nos sites seguintes.
+Revenda de seminovos com compra, venda e consignação, no mercado desde 2008. A página inicial combina chamada forte, botões de estoque e de agendamento de visita, WhatsApp no topo e as provas de confiança da loja. É o projeto mais completo da série: site institucional com **painel administrativo protegido por login**, onde a loja gerencia o próprio estoque. Foi a base que reaproveitei nos sites seguintes.
 
 ### Diamond Veículos
-**[Acessar o site](https://diamond-veiculos.vercel.app)** · Porto Velho/RO
+**[Acessar o site](https://diamond-veiculos.vercel.app)** · Alvorada/RS
 
-Loja de carros novos e seminovos. Feito em **Next.js**, com vitrine de veículos e **filtros por categoria** (SUV, sedã, hatch, picape, crossover), links de WhatsApp e Instagram e painel administrativo em `/admin`. Tema escuro, em preto quase puro.
+Loja de carros com mais de 10 anos de mercado. Tem **carrossel de veículos em destaque**, busca no estoque, favoritos, seções de financiamento, equipe, avaliações e dúvidas, botão de WhatsApp e link para o Instagram, além de painel administrativo em `/admin`. Tema escuro com vermelho como cor de destaque.
 
 ### 040 Automarcas
 **[Acessar o site](https://040-automarcas.vercel.app)** · Viamão/RS
@@ -90,7 +90,7 @@ Cinco sites para negócios de comida, cada um com personalidade própria. A cor,
 ### Sorveteria Dinoni
 **[Acessar o site](https://dinonicristovao.com.br)** · Porto Alegre/RS
 
-Site institucional responsivo para um **cliente real**, feito em **React e CSS** com foco em desempenho e design moderno. Cuidei também do **domínio (Registro.br), da hospedagem (Hostinger) e do deploy em produção**, e sigo responsável pela manutenção. Foi meu primeiro site vendido e hoje serve de vitrine para os demais.
+Site institucional responsivo para um **cliente real**, feito em **React e CSS** com foco em desempenho e design moderno. Tem seções de sobre, produtos, horários, galeria e localização, botão de WhatsApp e link para o Instagram, com destaque para a tele-entrega. Cuidei também do **domínio (Registro.br), da hospedagem (Hostinger) e do deploy em produção**, e sigo responsável pela manutenção. Foi meu primeiro site vendido e hoje serve de vitrine para os demais.
 
 ### Quati Gelateria
 **[Acessar o site](https://quati-gelateria.vercel.app)** · Bom Fim, Porto Alegre/RS
